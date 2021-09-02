@@ -1,7 +1,7 @@
 # Hello there, I'm Dmitry Shkadarevich 👋
 
 
-Computer Science student at [BSUIR](https://www.bsuir.by/en/). Machine Learning Engineer with passion for Computer Vision and its applications. Fascinated by [Edge AI](https://medium.com/darwin-edge-ai/edge-ai-embedded-hardware-considerations-6a5aa408b824) Deployment.
+Computer Science student at [BSUIR](https://www.bsuir.by/en/). Machine Learning Engineer with passion for Computer Vision and its applications. Fascinated by [Edge AI](https://medium.com/darwin-edge-ai/edge-ai-embedded-hardware-considerations-6a5aa408b824) Deployment and Realtime Tracking algorithms.
 
 - I'm currently dealing with: `python`,`C++`,`OpenCV`,[`Mediapipe`](https://github.com/google/mediapipe), [`OpenVINO`](https://github.com/openvinotoolkit/openvino)
 - I'm mostly active within the [ODS.ai](https://ods.ai/) community
