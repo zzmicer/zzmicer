@@ -1,10 +1,19 @@
 # Hello there, I'm Dmitry Shkadarevich 👋
 
+Machine Learning Engineer with an experience in Computer Vision.
 
-Computer Science student at [BSUIR](https://www.bsuir.by/en/). Machine Learning Engineer with passion for Computer Vision and its applications. Fascinated by [Edge AI](https://medium.com/darwin-edge-ai/edge-ai-embedded-hardware-considerations-6a5aa408b824) Deployment and Realtime Tracking algorithms.
+Main areas of interest:
+- Image processing
+- Real-time Deep Learning inference
+- Augmented and Virtual Reality
 
-- I'm currently dealing with: `python`,`C++`,`OpenCV`,[`Mediapipe`](https://github.com/google/mediapipe), [`OpenVINO`](https://github.com/openvinotoolkit/openvino)
-- I'm mostly active within the [ODS.ai](https://ods.ai/) community
+Tech stack:
+- C++(for ML/CV backend), Python(for fast prototyping)
+- OpenCV, OpenGL ES, [Google's Mediapipe](https://github.com/google/mediapipe) ❤️, [Intel's OpenVINO](https://github.com/openvinotoolkit/openvino)
+- Build systems: Bazel, cmake
+- Tensorflow 2.0, Keras
+- Linux/MacOS, bash, protobuf/json
+
 
 [![Linkedin: Dmitry Shkadarevich](https://img.shields.io/badge/-Dmitry%20Shkadarevich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-shkadarevich/)](https://www.linkedin.com/in/dmitry-shkadarevich/)
 [![Kaggle Badge](https://img.shields.io/badge/-dmitryshkadarevich-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/dmitryshkadarevich)](https://www.kaggle.com/dmitryshkadarevich)
