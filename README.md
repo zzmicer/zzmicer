@@ -11,7 +11,7 @@ Tech stack:
 - C++(for ML/CV backend), Python(for fast prototyping)
 - OpenCV, OpenGL ES, [Google's Mediapipe](https://github.com/google/mediapipe) ❤️, [Intel's OpenVINO](https://github.com/openvinotoolkit/openvino)
 - Build systems: Bazel, cmake
-- Tensorflow 2.0, Keras
+- Tensorflow 2.0, Keras, PyTorch
 - Linux/MacOS, bash, protobuf/json
 
 
