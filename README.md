@@ -3,7 +3,7 @@
 Machine Learning Engineer with an experience in Computer Vision.
 
 Main areas of interest:
-- Image processing
+- Generative Computer Vision
 - Real-time Deep Learning inference
 - Augmented and Virtual Reality
 
